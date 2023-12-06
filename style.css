@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'Darumadrop One';
-    src: url('fonts/DarumadropOne-Regular.ttf') format('woff2'); 
+    src: url('DarumadropOne-Regular.ttf') format('woff2'); 
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Average';
-    src: url(fonts/Average-Regular.ttf) format('ttf');
+    src: url(Average-Regular.ttf) format('ttf');
 }
 
 
@@ -149,7 +149,7 @@ body {
 
 
 .teaCont .t1 {
-    background-image: url('img/YellowTea.PNG'); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+    background-image: url('YellowTea.PNG'); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
     background-size: cover; /* Adjust the background size as needed */
     background-position: center; /* Center the background image */
     /* You can add more background properties as needed, such as background-repeat, etc. */
